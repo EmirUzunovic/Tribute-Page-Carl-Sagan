@@ -1,0 +1,50 @@
+html, body{
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    min-width: 260px;
+    color: #333;
+    }
+
+main {
+    margin: 30px auto;
+    padding: 15px;
+    background-color: #eee;
+}
+
+#tribute-info { 
+    width: 90%;
+    text-align: justify;
+}
+
+
+article {
+    margin: auto;
+     width: 90%;
+     text-align: justify;
+ }
+footer {
+    width: 90%;
+    text-align: center;
+    font-weight: bold; 
+}
+
+.italic-text {
+    font-style: italic;
+    color: gray;
+}
+#img-div {
+    /*position: absolute;*/
+     
+    width: 90%;
+    margin: auto;
+}
+
+#image {
+   /* position: relative;
+    top: 5%;
+    left: 5%;*/
+    display: block;
+    max-width: 100%;
+    height: auto ;
+    margin: auto;
+}
